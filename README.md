@@ -2,6 +2,9 @@
 
 ed25519 HD Key
 =====
+This fork is used in Browser Environment
+
+=====
 
 Key Derivation for `ed25519`
 ------------
